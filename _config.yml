@@ -5,3 +5,5 @@ keywords: 摄影 代码 电影 音乐
 author: Wferr
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+
+theme: jekyll-theme-cayman
